@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Sagacity.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>SagacityAppParse.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>AE8AF95E1C09571100E98C56</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AE8AF9771C09571300E98C56</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AE8AF9821C09571300E98C56</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AEAF38031C1571E200566674</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
